@@ -163,7 +163,7 @@
         }
         
         .silex-id-1508530305065-37 {
-            background-image: url('../assets/taust%20web.png');
+            background-image: url('../assets/web%20banner.png');
             top: 141px;
             left: 5px;
             background-position: top left;
@@ -243,13 +243,12 @@
         @media only screen and (max-width: 480px),
         only screen and (max-device-width: 480px) {
             .silex-id-1508527669950-21 {
-                width: 1000px;
-                top: 12px;
-                left: 217px;
+                width: 1px;
+                top: 15px;
+                left: 303px;
                 overflow: hidden;
                 height: 570px;
-                min-height: 695px;
-                min-width: 100%;
+                min-height: 790px;
             }
         }
         
@@ -275,7 +274,6 @@
                 top: 95px;
                 width: 438px;
                 min-height: 600px;
-                background-color: transparent;
             }
         }
         
@@ -415,7 +413,6 @@
             top: 15px;
             left: 54px;
             border-radius: 300px 300px 300px 300px;
-            background-image: url('../assets/eesi%20nagu.jpg');
         }
         
         @media only screen and (max-width: 480px),
@@ -466,10 +463,8 @@
         .silex-id-1509385540139-5 {
             background-image: url('../assets/taust.jpg');
             background-attachment: scroll;
-            background-position: top center;
-            background-size: cover;
-            top: 1686px;
-            left: 5px;
+            background-position: center center;
+            background-size: contain;
         }
         
         @media only screen and (max-width: 480px),
@@ -481,7 +476,7 @@
         }
         
         .silex-id-1509385540139-4 {
-            min-height: 115px;
+            min-height: 100px;
         }
         
         @media only screen and (max-width: 480px),
@@ -844,13 +839,6 @@
             min-width: 1000px;
         }
         
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1509379162717-1 {
-                background-image: url('../assets/taust.jpg');
-            }
-        }
-        
         .silex-id-1509379162716-0 {
             width: 1000px;
             min-height: 100px;
@@ -867,7 +855,7 @@
         }
         
         .silex-id-1509377811077-6 {
-            top: 3748px;
+            top: 3739px;
             left: 5px;
             background-color: rgba(255, 255, 255, 1);
             min-width: 1000px;
@@ -875,7 +863,7 @@
         
         .silex-id-1509377811076-5 {
             width: 1000px;
-            min-height: 259px;
+            min-height: 695px;
             top: 15px;
             left: 217px;
         }
@@ -896,10 +884,10 @@
         }
         
         .silex-id-1509377412096-4 {
-            width: 205px;
-            top: 156px;
-            left: 427px;
-            min-height: 69px;
+            width: 100%;
+            top: 171px;
+            left: 1px;
+            min-height: 518px;
         }
         
         .silex-id-1491515759410-36 {
@@ -948,15 +936,15 @@
         }
         
         .silex-id-1509389342497-27 {
-            width: 444px;
+            width: 385px;
             background-color: transparent;
-            min-height: 84px;
-            top: 16px;
+            min-height: 100px;
+            top: 4px;
             left: 495px;
         }
         
         .silex-id-1509389366259-28 {
-            width: 415px;
+            width: 375px;
             min-height: 45px;
             top: 32px;
             left: 5px;
